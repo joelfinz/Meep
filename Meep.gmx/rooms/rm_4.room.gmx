@@ -94,11 +94,9 @@
     <instance objName="obj_wall" x="32" y="704" name="inst_B2DD740E" locked="0" code="" scaleX="2" scaleY="44" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="32" y="736" name="inst_93FC9799" locked="0" code="" scaleX="2" scaleY="44" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="128" y="608" name="inst_3EDDB99D" locked="0" code="" scaleX="6" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="obj_spikes" x="192" y="544" name="inst_CABD3F7A" locked="0" code="" scaleX="1.33333337306976" scaleY="1.33333337306976" colour="4294967295" rotation="0"/>
-    <instance objName="obj_spikes" x="64" y="448" name="inst_A2E4ED87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="270"/>
-    <instance objName="obj_spikes" x="64" y="384" name="inst_968116A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="270"/>
-    <instance objName="obj_wall" x="256" y="384" name="inst_038040EA" locked="0" code="" scaleX="6" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="obj_spikes" x="320" y="320" name="inst_817D66EA" locked="0" code="" scaleX="1.33333337306976" scaleY="1.33333337306976" colour="4294967295" rotation="0"/>
+    <instance objName="obj_spikes" x="192" y="576" name="inst_CABD3F7A" locked="0" code="" scaleX="1.33333337306976" scaleY="0.666666686534882" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="256" y="416" name="inst_038040EA" locked="0" code="" scaleX="6" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_spikes" x="320" y="352" name="inst_817D66EA" locked="0" code="" scaleX="1.33333337306976" scaleY="1.33333337306976" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="672" y="256" name="inst_2CEA74B6" locked="0" code="" scaleX="8" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="obj_moving_spikes" x="352" y="96" name="inst_902075C9" locked="0" code="path_start(level_4_spikes_movement_12,5,path_action_reverse,0);&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_moving_spikes" x="512" y="352" name="inst_18BB2E56" locked="0" code="path_start(level_4_spikes_movement_13,5,path_action_reverse,0);&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -119,7 +117,7 @@
     <instance objName="obj_spikes" x="1664" y="608" name="inst_1555881E" locked="0" code="" scaleX="1.33333337306976" scaleY="1.33333337306976" colour="4294967295" rotation="0"/>
     <instance objName="obj_info" x="160" y="96" name="inst_8F5DA255" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_snd" x="128" y="224" name="inst_074DBF88" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_flag" x="768" y="192" name="inst_3B25FAD1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_flag" x="768" y="192" name="inst_3B25FAD1" locked="0" code="new_level=rm_5;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

@@ -63,19 +63,14 @@ if(sprite_index==spr_flag_raise) {
     obj_player.x_room_position=new_x;
     obj_player.y_room_position=new_y;
    
-    if(new_level=rm_4) {
     
-         room_goto(rm_5);
-         }
-         else {
-             
     
    room_goto(new_level);
     obj_info.level++;
     obj_player.x=obj_player.x_room_position;
     obj_player.y=obj_player.y_room_position;
     }
-    }  
+    
 </string>
           </argument>
         </arguments>

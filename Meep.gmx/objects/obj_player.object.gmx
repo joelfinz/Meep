@@ -64,9 +64,6 @@ death=0;
             <kind>1</kind>
             <string>///Movement code for obj_player
 
-//var jump_key=keyboard_check(vk_space);
-//var left_key=keyboard_check(vk_left);
-//var right_key=keyboard_check(vk_right);
 
 move=device_get_tilt_y()
 hspd=move*spd;
